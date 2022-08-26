@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JadeWatson
 - 👀 I’m interested in Sports
 - 🌱 I’m currently in Applied Math Engineering
-- 💞️ I’m looking to collaborate on compuatational neural networks
 - 📫 How to reach me 16jw73@queensu.ca
 
 <!---
